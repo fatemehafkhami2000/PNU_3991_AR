@@ -6,4 +6,4 @@
 
 -{رزومه}-(https://fatemehafkhami2000.github.io)
 
--{sop}-(https://fatemehafkhami.github.io/sop/)
+-{sop}-(https://fatemehafkhami.github.io/sop)
