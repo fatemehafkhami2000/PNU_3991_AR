@@ -1,9 +1,13 @@
 # PNU_3991_AR
+---------
+### fatemeh afkhami
 ----------
-###فاطمه افخمی اردکانی
-----------
--{حساب گیت هاب}-(https://github.com/fatemehafkhami2000)
+- [حساب گیت هاب](https://github.com/fatemehafkhami2000)
 
--{رزومه}-(https://fatemehafkhami2000.github.io)
+- [رزومه](https://fatemehafkhami2000.github.io)
 
--{sop}-(https://github.com/fatemehafkhami2000/sop)
+- [SOP](https://fatemehafkhami2000.github.io/SOP/)
+
+- [Certificates](https://fatemehafkhami2000.github.io/Certificates/)
+
+
