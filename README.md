@@ -8,4 +8,4 @@
 
 - [SOP](https://github.com/fatemehafkhami2000/sop/blob/main/index.html)
 
--[certificate]-(https://github.com/fatemehafkhami2000/certificate/blob/main/js.jpg)
+-[certificate](https://github.com/fatemehafkhami2000/certificate/blob/main/js.jpg)
