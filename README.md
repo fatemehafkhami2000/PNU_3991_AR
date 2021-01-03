@@ -6,5 +6,9 @@
 
 - [رزومه](https://fatemehafkhami2000.github.io)
 
--[sop]-(https://fatemehafkhami2000.github.io/sop)
+- [SOP](https://fatemehafkhami2000.github.io/SOP/)
+
+- [Certificates](https://github.com/fatemehafkhami2000/certificate/blob/main/js.jpg)
+
+
 
